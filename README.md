@@ -1,2 +1,2 @@
 # Dennis-Novik
-Portfolio webpage of Dennis Novik
+Portfolio website of Dennis Novik
